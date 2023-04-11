@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+.cabeca {
+    border: 1px solid rgb(85, 76, 76);
+    width: 90px;
+    padding: 8px;
+    background-color: rgba(58, 55, 55, 0.69);
+    color: white;
+}
+tbody,td {
+    border: 1px solid black;
+    width: 90px;
+    padding: 8px;
+    
+}
+table {
+    border-collapse: collapse;
+   
+}
